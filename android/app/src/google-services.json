@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431429760233",
+    "firebase_url": "https://phamalast.firebaseio.com",
+    "project_id": "phamalast",
+    "storage_bucket": "phamalast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431429760233:android:b7ce17388b21992f436c78",
+        "android_client_info": {
+          "package_name": "next.sy.pharmacity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431429760233-0pu6tc3251gpqelhbulaq59iqa9ml002.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "next.sy.pharmacity",
+            "certificate_hash": "a499e5160392b221b25e76709e8e847ed57e5d01"
+          }
+        },
+        {
+          "client_id": "431429760233-mk430kdr4i746trideep4oprf62glpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnOxry8GuEHPcJmScRj38-HUPgd1W3CW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431429760233-mk430kdr4i746trideep4oprf62glpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
